@@ -1,0 +1,9 @@
+MF 3 Fabinho
+MF 6 Thiago-Alcantara
+MF 7 James-Milner
+MF 8 Naby-Keita
+MF 14 Jordan-Henderson
+MF 15 Alex-Oxlade-Chamberlain
+MF 17 Curtis-Jones
+MF 23 Xherdan-Shaqiri
+MF 58 Ben-Woodburn

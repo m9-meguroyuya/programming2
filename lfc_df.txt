@@ -1,0 +1,11 @@
+DF 4 Virgil-van-Dijk
+DF 5 Ibrahima-Konate
+DF 12 Joe-Gomez
+DF 21 Kostas-Tsimikas
+DF 26 Andy-Robertson
+DF 28 Ben-Davies
+DF 32 Joel-Matip
+DF 46 Rhys-Williams
+DF 47 Nathaniel-Phillips
+DF 66 Trent-Alexander-Arnold
+DF 76 Neco-Williams
